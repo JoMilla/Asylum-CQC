@@ -1,0 +1,4 @@
+respawn = "BASE";
+respawndelay = "0";
+disabledAI = 1;
+enableDebugConsole = 1;
